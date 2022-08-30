@@ -1,0 +1,85 @@
+#component1Top
+{
+    height:56px;
+    width: 100%;
+    background-color: #2874f0;
+    display: flex;
+     padding-top: 15px;
+    justify-content: center;
+    text-align: center;
+}
+#icon>p{
+    margin: 0;
+    font-size: 10px;
+    color: white;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+#icon
+{
+    height: 100%;
+    width:8%;
+    margin-left: 10%;
+    
+}
+#inpComp
+{
+    height: 10%;
+    width: 28%;
+    background-color: aliceblue;
+    padding-bottom: 24px;
+    padding-top: 8px;
+}
+#btnlogin
+{
+    height: 25%;
+    width: 10%;
+    background-color: white;
+    margin-left: 17px;
+    padding-top: 8px;
+    padding-bottom: 15px;
+}
+#navabar
+{
+  
+    height: 25%;
+    width: 32%;
+    margin-left: 17px;
+    padding-top: 8px;
+    display: flex;
+    padding-bottom: 15px;
+    color: white;
+}
+#navabar>p
+{
+    margin: 0;
+    margin-left: 20px;
+    margin-right: 20px;
+    font-size: 17px;
+}
+#imgFlipkart
+{
+    width: 75px;
+}
+#icofl
+{ 
+    height: 10%;
+    width:10px;
+}
+#ipnsearch
+{
+    border: none;
+    width: 225px;
+}
+#selid
+{
+    height: 18px;
+    width: 60px;
+    font-size: 17px;
+    border: none;
+    background: none;
+    color: white;
+
+}
