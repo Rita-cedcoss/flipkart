@@ -74,7 +74,7 @@ a{
     border: none;
     /* width: 320px;
      */
-     width: 250px;
+     width: 270px;
 }
 #selid
 {
@@ -116,4 +116,75 @@ a{
     width: 100%;
     background-color: aqua;
 }
+#Component4
+{
+    height: 320px;
+    width: 100%;
+    /* background-color: aqua; */
+    display: flex;
+}
+#Comp4left
+{
+    height: 100%;
+    width: 80%;
+    background-color:white;
 
+}
+#Comp4right
+{
+    height: 90%;
+    width: 15%;
+    margin: auto; 
+    padding-bottom: 25px; 
+}
+#Comp4divTop
+{
+    height: 13%;
+    width: 96%;
+    margin: auto;
+    padding-top: 6px;
+    background-color: white;
+    display: flex;
+    padding-left: 16px;
+    padding-right: 16px;
+    margin-top: 16px;
+    border: 2px solid #e7e7e7;
+    box-shadow: 1px 1px 1px 1px white;
+    justify-content: space-between;
+}
+#btnView
+{
+    height: 26px;
+    width: 85px;
+    border: none;
+    background-color: #2874f0;
+    color: white;
+}
+#Comp4divBottom
+{
+    height: 70%;
+    width: 96%;
+    margin: auto;
+    text-align: center;
+    display: flex;
+    border: 2px solid #e3d8d8;
+    /* margin-top: 37px; */
+}
+.Product_item
+{
+    height: 100%;
+    width: 18%;
+    margin: auto;
+    /* background-color: #2874f0; */
+}
+.Product_item>div>p{
+    margin:0;
+    font-size: 14px;
+}
+.Product_item>div>img
+{
+
+     height: 150px;
+    width: 119px;
+    padding-top: 24px; 
+}
