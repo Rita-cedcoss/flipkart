@@ -33,5 +33,4 @@ class Component3 extends Component {
     )
   }
 }
-
 export default Component3

@@ -72,8 +72,6 @@ a{
 #ipnsearch
 {
     border: none;
-    /* width: 320px;
-     */
      width: 270px;
 }
 #selid
@@ -120,7 +118,6 @@ a{
 {
     height: 320px;
     width: 100%;
-    /* background-color: aqua; */
     display: flex;
 }
 #Comp4left
@@ -128,7 +125,6 @@ a{
     height: 100%;
     width: 80%;
     background-color:white;
-
 }
 #Comp4right
 {
@@ -168,14 +164,12 @@ a{
     text-align: center;
     display: flex;
     border: 2px solid #e3d8d8;
-    /* margin-top: 37px; */
 }
 .Product_item
 {
     height: 100%;
     width: 18%;
     margin: auto;
-    /* background-color: #2874f0; */
 }
 .Product_item>div>p{
     margin:0;
@@ -183,7 +177,6 @@ a{
 }
 .Product_item>div>img
 {
-
      height: 150px;
     width: 119px;
     padding-top: 24px; 
